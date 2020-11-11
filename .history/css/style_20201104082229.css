@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url("../img/trout.png");
+    background-color: #79b3e6;
+    background-size: cover;
+    height: 40vh;
+}
+
+.alt {
+    position: relative;
+    top: -50px;
+    color: #fff;
+}
+
+.navbar-text {
+    font-size: 1.5rem;
+    padding-right: 100px;
+}
+
+.customFooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    self
+    width: 50%;
+}

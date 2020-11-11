@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url("../img/trout.png");
+    background-color: rgb(173, 207, 236);
+    
+    height: 40vh;
+}
+
+.alt h1, p {
+    color: #fff;
+}
